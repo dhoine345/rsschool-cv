@@ -43,3 +43,10 @@ function handleMouseEnter(e) {
 * Movies-explorer. The frontend and backend of the service, where you can find movies on demand and save them in your personal account. Technology stack: React, BEM, Webpack, Javascript, MongoDB, Express.js, Flex and Grid layout.
 Links to repositories:
 [Frontend](https://github.com/dhoine345/movies-explorer-frontend) and [Backend](https://github.com/dhoine345/movies-explorer-api)
+
+## Education: 
+* Higher education: Volgograd Academy of Public Service, Specialty manager
+* Professional courses: Yandex.Praktikum, [Web Developer](https://practicum.yandex.ru/web/)
+
+## English: 
+Level A2
