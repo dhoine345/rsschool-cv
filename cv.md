@@ -1,5 +1,7 @@
 # Ivan Semenov
 
+![Foto](./images/foto.jpg)
+
 ## Contacts:
 * Phone: +79377262251
 * Email: semiv@inbox.ru
