@@ -24,14 +24,14 @@ I get positive emotions by solving new tasks.
 * React
 * Express.js
 
-## Code examples
+## Code example
 ```
-function handleMouseEnter(e) {
-    if (!e.target.classList.contains('header__link_active'))
-      e.target.classList.add('header__link_active')
-      e.target.nextElementSibling ? e.target.nextElementSibling.classList.remove('header__link_active')
-      : e.target.previousElementSibling.classList.remove('header__link_active')
-  }
+function firstNonRepeatingLetter(s) {
+  const repeatedChars = [...s.toLowerCase()].filter((item, ind, arr) => arr.lastIndexOf(item) !== ind);
+  const firstNonRepeatingChar = [...s].filter(char => !repeatedChars.includes(char.toLowerCase()))[0];
+
+  return firstNonRepeatingChar ? firstNonRepeatingChar : ''
+}
 ```
 ## My Study Projects
 * How-to-learn. Static website. Technology stack: Flex layout, BEM structure, animations and transformations implemented.
