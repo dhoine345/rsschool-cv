@@ -39,16 +39,16 @@ function firstNonRepeatingLetter(s) {
 * How-to-learn. Static website. Technology stack: Flex layout, BEM structure, animations and transformations implemented.
 [Link to the repository](https://github.com/dhoine345/how-to-learn)
 * Russian-travel. Adaptive website. Technology stack: layout with Figma (Pixel Perfect), Flex, Grid, BEM structure.
-[Link to the repository](https://github.com/dhoine345/russian-travel) 
+[Link to the repository](https://github.com/dhoine345/russian-travel)
 * Place. A single-page application on React. The project is a service gallery with a user profile, the ability to put likes. Technology stack: React, BEM, Webpack, Javascript, MongoDB, Express.js, Flex and Grid layout.
 [Link to the repository](https://github.com/dhoine345/react-mesto-api-full)
 * Movies-explorer. The frontend and backend of the service, where you can find movies on demand and save them in your personal account. Technology stack: React, BEM, Webpack, Javascript, MongoDB, Express.js, Flex and Grid layout.
 Links to repositories:
 [Frontend](https://github.com/dhoine345/movies-explorer-frontend) and [Backend](https://github.com/dhoine345/movies-explorer-api)
 
-## Education: 
+## Education:
 * Higher education: Volgograd Academy of Public Service, Specialty manager
 * Professional courses: Yandex.Praktikum, [Web Developer](https://practicum.yandex.ru/web/)
 
-## English: 
+## English:
 Level A2
